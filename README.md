@@ -1,4 +1,16 @@
-### Hi there 👋
+
+### DANIEL TISTOJ 👋
+```js
+const danieltistoj = {
+  pronouns: "he" | "him",
+  code: [Python, Java],
+  tools: [Mongo, MySQL]
+}
+```
+You can find me 🌐:
+- [LinkedIn](https://www.linkedin.com/in/daniel-tistoj-315661223/)
+- E-mail: josetisrey@gmail.com
+
 
 <!--
 **danieltistoj/danieltistoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
