@@ -2,12 +2,22 @@
 #### I am GitHub Readme Generator's creator
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
+![da60svg-9a8ed6a5-a666-4bb1-ab4e-da779e273bc7](https://user-images.githubusercontent.com/42653664/189792160-c6155735-a851-4013-a05c-e336d2a2b594.gif)
+
 ```js
 const danieltistoj = {
   code: [Python, Java, JavaScript],
   tools: [Mongo, MySQL, NodeJS]
 }
 ```
+```
+You can find me 🌐:
+
+- [LinkedIn](https://www.linkedin.com/in/daniel-tistoj-315661223/)
+- E-mail: josetisrey@gmail.com
+- Instagram: @danieltistoj
+```
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/danieltistoj)  
 
