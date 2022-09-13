@@ -32,4 +32,4 @@ You can find me 🌐:
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=danieltistoj)  
 
-![Profile views](https://gpvc.arturio.dev/danieltistoj)  
+
