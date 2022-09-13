@@ -2,8 +2,7 @@
 ### DANIEL TISTOJ 👋
 ```js
 const danieltistoj = {
-  pronouns: "he" | "him",
-  code: [Python, Java],
+  code: [Python, Java, JavaScript],
   tools: [Mongo, MySQL]
 }
 ```
