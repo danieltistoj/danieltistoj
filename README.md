@@ -24,7 +24,7 @@ You can find me 🌐:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=danieltistoj&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=danieltistoj)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=danieltistoj&theme=dark)  
 
 ![GitHub metrics](https://metrics.lecoq.io/danieltistoj)  
 
