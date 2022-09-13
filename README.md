@@ -10,13 +10,12 @@ const danieltistoj = {
   tools: [Mongo, MySQL, NodeJS]
 }
 ```
-```
+
 You can find me 🌐:
 
 - [LinkedIn](https://www.linkedin.com/in/daniel-tistoj-315661223/)
 - E-mail: josetisrey@gmail.com
 - Instagram: @danieltistoj
-```
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/danieltistoj)  
