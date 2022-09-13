@@ -3,7 +3,7 @@
 ```js
 const danieltistoj = {
   code: [Python, Java, JavaScript],
-  tools: [Mongo, MySQL]
+  tools: [Mongo, MySQL, NodeJS]
 }
 ```
 You can find me 🌐:
