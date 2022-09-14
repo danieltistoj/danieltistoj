@@ -14,9 +14,9 @@ You can find me 🌐:
 - Instagram: @danieltistoj
 
 
-<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=danieltistoj&theme=dark&show_icons=true"/>
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=danieltistoj&theme=dark&show_icons=true"/>
 
-<img align = "left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieltistoj&layout=compact&theme=dark"/>
+<img  height="180em" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieltistoj&layout=compact&theme=dark"/>
 
 ![GitHub metrics](https://metrics.lecoq.io/danieltistoj)  
 
