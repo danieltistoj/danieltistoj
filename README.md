@@ -28,11 +28,20 @@ Soy Daniel Tistoj, soy de Guatemala. Me gusta mucho aprender lenguajes y framewo
  </div>
  </div>
  <hr>
- <div align="center" style ="display: flex">
+ 
+ <div align="center" style= "display: flex; align-items: flex-end;">
  <img height="350em"   src="https://metrics.lecoq.io/danieltistoj"/>  
-  <hr>
+ <img height = "350em" src="https://user-images.githubusercontent.com/42653664/190078487-6d0bdf94-b3b9-4e3e-817c-a337a16e08aa.gif"/>
 </div>
+<br>
+<div style="display: inline_block" align="center">
+  <img align="center" alt="Rafa-Csharp" height="50" width="200" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Rafa-Csharp" height="50" width="200" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+ 
+</div>
+<br>
 <div align="center">
- <img  height="400em" width="350em" src="https://user-images.githubusercontent.com/42653664/189792160-c6155735-a851-4013-a05c-e336d2a2b594.gif"/>
+ <p>Experiencia en proyecto con base de datos tanto relacionales como no relacionales </p>
  </div>
-
+ <hr>
+ 
