@@ -8,6 +8,7 @@ Soy Daniel Tistoj, soy de Guatemala. Me gusta mucho aprender lenguajes y framewo
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Csharp" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
@@ -29,6 +30,9 @@ Soy Daniel Tistoj, soy de Guatemala. Me gusta mucho aprender lenguajes y framewo
  <hr>
  <div align="center" style ="display: flex">
  <img height="350em"   src="https://metrics.lecoq.io/danieltistoj"/>  
- <img  height="400em" width="350em" src="https://user-images.githubusercontent.com/42653664/189792160-c6155735-a851-4013-a05c-e336d2a2b594.gif"/>
+  <hr>
 </div>
+<div align="center">
+ <img  height="400em" width="350em" src="https://user-images.githubusercontent.com/42653664/189792160-c6155735-a851-4013-a05c-e336d2a2b594.gif"/>
+ </div>
 
