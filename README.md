@@ -1,5 +1,6 @@
 ### DANIEL TISTOJ 👋
-
+<img src="https://gpvc.arturio.dev/danieltistoj"/> 
+Soy Daniel Tistoj, soy de Guatemala. Me gusta mucho aprender lenguajes y frameworks de backend como: ExpressJS, Flask, Django y Spring Boot. Tambien estoy interesado en aprender ux, ui y lo que tenga que ver con diseño en general.
  <hr>
 <div align="center">
  <div style="display: inline_block">
@@ -31,4 +32,3 @@
  <img  height="400em" width="350em" src="https://user-images.githubusercontent.com/42653664/189792160-c6155735-a851-4013-a05c-e336d2a2b594.gif"/>
 </div>
 
-<img src="https://gpvc.arturio.dev/danieltistoj"/> 
