@@ -1,4 +1,4 @@
-### DANIEL TISTOJ 👋
+### DANIEL TISTOJ
 <img src="https://gpvc.arturio.dev/danieltistoj"/> 
 Soy Daniel Tistoj, soy de Guatemala. Me gusta mucho aprender lenguajes y frameworks de backend como: ExpressJS, Flask, Django y Spring Boot. Tambien estoy interesado en aprender ux, ui y lo que tenga que ver con diseño en general.
  <hr>
@@ -24,7 +24,6 @@ Soy Daniel Tistoj, soy de Guatemala. Me gusta mucho aprender lenguajes y framewo
     <a href="https://www.instagram.com/danieltistoj_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://discord.gg/9KP5ufNs" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
    <a href="https://www.facebook.com/jose.tistoj.10/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> 
-  
  </div>
  </div>
  <hr>
@@ -44,4 +43,15 @@ Soy Daniel Tistoj, soy de Guatemala. Me gusta mucho aprender lenguajes y framewo
  <p>Experiencia en proyecto con base de datos tanto relacionales como no relacionales </p>
  </div>
  <hr>
- 
+ <div align="center" >
+ <h1>REPOSITORIOS</h1>
+ </div>
+ <div align="center">
+ <a  href="https://github.com/danieltistoj/atenea-servicio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=danieltistoj&repo=atenea-servicio&theme=dark"/></a>
+ <a href="https://github.com/danieltistoj/backend-product-code"><img src="https://github-readme-stats.vercel.app/api/pin/?username=danieltistoj&repo=backend-product-code&theme=dark"/></a>
+  <a href="https://github.com/danieltistoj/spotify_analisis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=danieltistoj&repo=spotify_analisis&theme=dark"/></a>
+   <a href="https://github.com/danieltistoj/ProyectoBD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=danieltistoj&repo=ProyectoBD&theme=dark"/></a>
+  <a href="https://github.com/danieltistoj/Proyecto_SO2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=danieltistoj&repo=Proyecto_SO2&theme=dark"/></a>
+    <a href="https://github.com/danieltistoj/Ejercicio-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=danieltistoj&repo=Ejercicio-python&theme=dark"/></a>
+</div>
+ <hr>
