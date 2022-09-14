@@ -31,7 +31,7 @@ Soy Daniel Tistoj, soy de Guatemala. Me gusta mucho aprender lenguajes y framewo
  <hr>
  
  <div align="center" style= "display: flex; align-items: flex-end;">
- <img height="350em"   src="https://metrics.lecoq.io/danieltistoj"/>  
+  <img height="350em"   src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danieltistoj&theme=github_dark"/>  
  <img height = "350em" src="https://user-images.githubusercontent.com/42653664/190078487-6d0bdf94-b3b9-4e3e-817c-a337a16e08aa.gif"/>
 </div>
 <br>
@@ -57,3 +57,6 @@ Soy Daniel Tistoj, soy de Guatemala. Me gusta mucho aprender lenguajes y framewo
     <a href="https://github.com/danieltistoj/Ejercicio-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=danieltistoj&repo=Ejercicio-python&theme=dark"/></a>
 </div>
  <hr>
+<div align="center" style= "display: flex; align-items: flex-end;">
+  <img height = "350em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danieltistoj&theme=github_dark"/>
+</div>
