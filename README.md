@@ -13,10 +13,10 @@ You can find me 🌐:
 - E-mail: josetisrey@gmail.com
 - Instagram: @danieltistoj
 
-
+<div align="center">
 <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=danieltistoj&theme=dark&show_icons=true"/>
-
 <img  height="180em" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieltistoj&layout=compact&theme=dark"/>
+</div>
 
 ![GitHub metrics](https://metrics.lecoq.io/danieltistoj)  
 
