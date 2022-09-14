@@ -31,7 +31,7 @@ Soy Daniel Tistoj, soy de Guatemala. Me gusta mucho aprender lenguajes y framewo
  <hr>
  
  <div align="center" style= "display: flex; align-items: flex-end;">
-  <img height="350em"   src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danieltistoj&theme=github_dark"/>  
+  <img height="250em"   src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danieltistoj&theme=github_dark"/>  
  <img height = "350em" src="https://user-images.githubusercontent.com/42653664/190078487-6d0bdf94-b3b9-4e3e-817c-a337a16e08aa.gif"/>
 </div>
 <br>
