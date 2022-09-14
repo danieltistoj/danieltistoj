@@ -18,7 +18,7 @@ You can find me 🌐:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieltistoj&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieltistoj&theme=dark&show_icons=true)
+<img aling=left src="https://github-readme-stats.vercel.app/api?username=danieltistoj&theme=dark&show_icons=true"/>
 
 ![GitHub metrics](https://metrics.lecoq.io/danieltistoj)  
 
