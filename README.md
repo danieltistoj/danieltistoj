@@ -47,7 +47,7 @@ Soy Daniel Tistoj, soy de Guatemala. Me gusta mucho aprender lenguajes y framewo
  </div>
  <hr>
  <div align="center" >
- <h1>REPOSITORIOS</h1>
+ <h1>BACKEND REPOSITORIES</h1>
  </div>
  <div align="center">
  <a  href="https://github.com/danieltistoj/atenea-servicio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=danieltistoj&repo=atenea-servicio&theme=dark"/></a>
