@@ -1,6 +1,7 @@
-<p align="center">
- <h2 align="center">José Daniel Tistoj Reyes</h2>
-</p>
+<div>
+<img  src="https://user-images.githubusercontent.com/42653664/190973788-29fe7fb3-9b5b-4ffd-93b4-4b8cf5384be8.png"/>
+</div>
+
 <img src="https://gpvc.arturio.dev/danieltistoj"/> 
 Soy Daniel Tistoj, soy de Guatemala. Me gusta mucho aprender lenguajes y frameworks de backend como: ExpressJS, Flask, Django y Spring Boot. Tambien estoy interesado en aprender ux, ui y lo que tenga que ver con diseño en general.
  <hr>
