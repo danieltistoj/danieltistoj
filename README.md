@@ -12,7 +12,7 @@
  </div>
 </div>
 <br>
-Soy Daniel Tistoj, soy de Guatemala. Me gusta mucho aprender lenguajes y frameworks de backend como: ExpressJS, Flask, Django y Spring Boot. Tambien estoy interesado en aprender ux, ui y lo que tenga que ver con diseño en general.
+Hola soy Daniel Tistoj, soy de Guatemala. Soy un desarrollador de backend, me gusta aprender constantemente sobre nuevas tecnologias y aplicar meticulosamente mis conocimientos a los proyectos que participo. He trabajado en el desarrollo de proyecto con metodologias agiles que permiten la entrega exitosa de tareas en los tiempos establecidos. Soy un amante de la musica y la lectura. 
  <hr>
 <div align="center">
  <div style="display: inline_block">
