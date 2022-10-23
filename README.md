@@ -13,17 +13,23 @@
 </div>
 <br>
 Hola soy Daniel Tistoj, soy de Guatemala. Soy un desarrollador de backend, me gusta aprender constantemente sobre nuevas tecnologias y aplicar meticulosamente mis conocimientos a los proyectos que participo. He trabajado en el desarrollo de proyecto con metodologias agiles que permiten la entrega exitosa de tareas en los tiempos establecidos. Soy un amante de la musica y la lectura. 
- <hr>
-<div align="center">
- <div style="display: inline_block">
-  <img align="center" alt="Rafa-Csharp" height="120" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Csharp" height="120" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="120" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-  <img align="center" alt="Rafa-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+  <div align="center" >
+ <h1>Back-End Technologies</h1>
+ </div>
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img   src="https://skillicons.dev/icons?i=java,python,js,nodejs,express,mysql,mongo" />
+  </a>
+</p>
+
+ <div align="center" >
+ <h1>Front-End Technologies</h1>
+ </div>
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img   src="https://skillicons.dev/icons?i=html,css" />
+  </a>
+</p>
  
 <div align="center">
 <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=danieltistoj&theme=dark&show_icons=true"/>
@@ -39,17 +45,6 @@ Hola soy Daniel Tistoj, soy de Guatemala. Soy un desarrollador de backend, me gu
   </div>
    <div align ="center"><img height = "350em" src="https://user-images.githubusercontent.com/42653664/190078487-6d0bdf94-b3b9-4e3e-817c-a337a16e08aa.gif"/></div>
   
-<br>
-<div style="display: inline_block" align="center">
-  <img align="center" alt="Rafa-Csharp" height="50" width="200" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="Rafa-Csharp" height="50" width="200" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
- 
-</div>
-<br>
-<div align="center">
- <p>Experiencia en proyecto con base de datos tanto relacionales como no relacionales </p>
- </div>
- <hr>
  <div align="center" >
  <h1>BACKEND REPOSITORIES</h1>
  </div>
