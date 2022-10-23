@@ -14,7 +14,7 @@
 <br>
 Hola soy Daniel Tistoj, soy de Guatemala. Soy un desarrollador de backend, me gusta aprender constantemente sobre nuevas tecnologias y aplicar meticulosamente mis conocimientos a los proyectos que participo. He trabajado en el desarrollo de proyecto con metodologias agiles que permiten la entrega exitosa de tareas en los tiempos establecidos. Soy un amante de la musica y la lectura. 
   <div align="center" >
- <h1>Back-End Technologies</h1>
+ <h1>Tecnologias de Back-End</h1>
  </div>
  <p align="center">
   <a href="https://skillicons.dev">
@@ -23,22 +23,22 @@ Hola soy Daniel Tistoj, soy de Guatemala. Soy un desarrollador de backend, me gu
 </p>
 
  <div align="center" >
- <h1>Front-End Technologies</h1>
+ <h1>Tecnologias de Front-End</h1>
  </div>
  <p align="center">
   <a href="https://skillicons.dev">
     <img   src="https://skillicons.dev/icons?i=html,css" />
   </a>
 </p>
- 
+ <div align="center" >
+ <h1>Estadisticas</h1>
+ </div>
 <div align="center">
 <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=danieltistoj&theme=dark&show_icons=true"/>
 <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieltistoj&layout=compact&theme=dark"/>
 </div>
  <br>
- 
  </div>
- <hr>
   <div height = "350em" align="center">
    <img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danieltistoj&theme=github_dark"/> 
    <img  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danieltistoj&theme=github_dark"/> 
@@ -46,7 +46,7 @@ Hola soy Daniel Tistoj, soy de Guatemala. Soy un desarrollador de backend, me gu
    <div align ="center"><img height = "350em" src="https://user-images.githubusercontent.com/42653664/190078487-6d0bdf94-b3b9-4e3e-817c-a337a16e08aa.gif"/></div>
   
  <div align="center" >
- <h1>BACKEND REPOSITORIES</h1>
+ <h1>Repositorios</h1>
  </div>
  <div align="center">
  <a  href="https://github.com/danieltistoj/atenea-servicio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=danieltistoj&repo=atenea-servicio&theme=dark"/></a>
