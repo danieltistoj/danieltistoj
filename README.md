@@ -34,7 +34,7 @@ Hola soy Daniel Tistoj, soy de Guatemala. Soy un desarrollador de backend, me gu
  <h1>Estadisticas</h1>
  </div>
 <div align="center">
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=danieltistoj&theme=dark&show_icons=true"/>
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=danieltistoj&theme=dark"/>
 <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieltistoj&layout=compact&theme=dark"/>
 </div>
  <br>
