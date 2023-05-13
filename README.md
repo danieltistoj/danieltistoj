@@ -15,7 +15,10 @@
    <a href="https://www.facebook.com/jose.tistoj.10/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> 
  </div>
 <br>
-Hola soy Daniel Tistoj, soy de Guatemala. Soy un desarrollador de backend, me gusta aprender constantemente sobre nuevas tecnologias y aplicar meticulosamente mis conocimientos a los proyectos que participo. He trabajado en el desarrollo de proyecto con metodologias agiles que permiten la entrega exitosa de tareas en los tiempos establecidos. Soy un amante de la musica y la lectura. 
+<p>Hola soy Daniel Tistoj, soy de Guatemala. Soy un desarrollador de backend, pero me gusta aprender todo aquello relacionado con el desarrollo frontend, me gusta aprender constantemente sobre nuevas tecnologias y aplicar meticulosamente mis conocimientos a los proyectos que participo. He trabajado en el desarrollo de proyecto con metodologias agiles que permiten la entrega exitosa de tareas en los tiempos establecidos. Soy un amante de la musica, en especial del Black Metal y la lectura, mi libro favorito es "El Quijote". </p>
+<br>
+<p>
+Hi, I'm Daniel Tistoj, I'm from Guatemala. I am a backend developer, but I like to learn everything related to frontend development, I like to constantly learn about new technologies and meticulously apply my knowledge to the projects that I participate in. I have worked in the development of projects with agile methodologies that allow the successful delivery of tasks in the established times. I am a lover of music, especially Black Metal and reading, my favorite book is "El Quijote".</p>
   <div align="center" >
  <h1>Tecnologias de Back-End</h1>
  </div>
@@ -43,8 +46,8 @@ Hola soy Daniel Tistoj, soy de Guatemala. Soy un desarrollador de backend, me gu
  <br>
  </div>
   <div height = "350em" align="center">
-   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danieltistoj&theme=github_dark"/> 
-   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danieltistoj&theme=github_dark"/> 
+   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danieltistoj&theme=dark"/> 
+   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danieltistoj&theme=dark"/> 
   </div>
    <div align ="center"><img height = "350em" src="https://user-images.githubusercontent.com/42653664/190078487-6d0bdf94-b3b9-4e3e-817c-a337a16e08aa.gif"/></div>
   
