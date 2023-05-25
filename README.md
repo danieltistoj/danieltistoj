@@ -40,8 +40,8 @@ Hi, I'm Daniel Tistoj, I'm from Guatemala. I am a backend developer, but I like 
  <h1>Estadisticas</h1>
  </div>
 <div align="center">
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=danieltistoj&show_icons=true&theme=dark"/>
-<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieltistoj&layout=compact&theme=dark"/>
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=danieltistoj&show_icons=true&theme=vue-dark"/>
+<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieltistoj&layout=compact&theme=vue-dark"/>
 </div>
  <br>
  </div>
@@ -55,12 +55,12 @@ Hi, I'm Daniel Tistoj, I'm from Guatemala. I am a backend developer, but I like 
  <h1>Repositorios</h1>
  </div>
  <div align="center">
- <a  href="https://github.com/danieltistoj/atenea-servicio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=danieltistoj&repo=atenea-servicio&theme=dark"/></a>
- <a href="https://github.com/danieltistoj/backend-product-code"><img src="https://github-readme-stats.vercel.app/api/pin/?username=danieltistoj&repo=backend-product-code&theme=dark"/></a>
-  <a href="https://github.com/danieltistoj/spotify_analisis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=danieltistoj&repo=spotify_analisis&theme=dark"/></a>
-   <a href="https://github.com/danieltistoj/ProyectoBD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=danieltistoj&repo=ProyectoBD&theme=dark"/></a>
-  <a href="https://github.com/danieltistoj/Proyecto_SO2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=danieltistoj&repo=Proyecto_SO2&theme=dark"/></a>
-    <a href="https://github.com/danieltistoj/Ejercicio-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=danieltistoj&repo=Ejercicio-python&theme=dark"/></a>
+ <a  href="https://github.com/danieltistoj/atenea-servicio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=danieltistoj&repo=atenea-servicio&theme=vue-dark"/></a>
+ <a href="https://github.com/danieltistoj/backend-product-code"><img src="https://github-readme-stats.vercel.app/api/pin/?username=danieltistoj&repo=backend-product-code&theme=vue-dark"/></a>
+  <a href="https://github.com/danieltistoj/spotify_analisis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=danieltistoj&repo=spotify_analisis&theme=vue-dark"/></a>
+   <a href="https://github.com/danieltistoj/ProyectoBD"><img src="https://github-readme-stats.vercel.app/api/pin/?username=danieltistoj&repo=ProyectoBD&theme=vue-dark"/></a>
+  <a href="https://github.com/danieltistoj/Proyecto_SO2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=danieltistoj&repo=Proyecto_SO2&theme=vue-dark"/></a>
+    <a href="https://github.com/danieltistoj/Ejercicio-python"><img src="https://github-readme-stats.vercel.app/api/pin/?username=danieltistoj&repo=Ejercicio-python&theme=vue-dark"/></a>
 </div>
  <hr>
 <div align="center" style= "display: flex; align-items: flex-end;">
