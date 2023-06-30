@@ -1,5 +1,5 @@
 <div align="center">
-<img  src="https://github.com/danieltistoj/danieltistoj/assets/42653664/72e430ec-7b80-4674-9a40-57fcad24a788"/>
+<img  src="https://github.com/danieltistoj/danieltistoj/assets/42653664/bcad8750-a438-4e64-a224-04c5523f3fd9"/>
 </div>
 <!-- 
 <div>
@@ -13,6 +13,7 @@
     <a href="https://www.instagram.com/danieltistoj_/" target="_blank"><img height="30px" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://discord.gg/W95APtpY7y" target="_blank"><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
    <a href="https://www.facebook.com/jose.tistoj.10/" target="_blank"><img height="30px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> 
+    <a href="https://portafolio-pi-sepia.vercel.app/" target="_blank"><img height="31px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a> 
  </div>
 <br>
 <p>Hola soy Daniel Tistoj, soy de Guatemala. Soy un desarrollador de backend, pero me gusta aprender todo aquello relacionado con el desarrollo frontend, me gusta aprender constantemente sobre nuevas tecnologias y aplicar meticulosamente mis conocimientos a los proyectos que participo. He trabajado en el desarrollo de proyecto con metodologias agiles que permiten la entrega exitosa de tareas en los tiempos establecidos. Soy un amante de la musica, en especial del Black Metal y la lectura, mi libro favorito es "El Quijote". </p>
