@@ -1,5 +1,5 @@
 <div align="center">
-<img  height="400px" width="400px"  src="https://github.com/danieltistoj/danieltistoj/assets/42653664/15e3b828-ea60-473e-ab5b-6f0939688f08"/>
+<img  src="https://github.com/danieltistoj/danieltistoj/assets/42653664/72e430ec-7b80-4674-9a40-57fcad24a788"/>
 </div>
 <!-- 
 <div>
@@ -65,4 +65,7 @@ Hi, I'm Daniel Tistoj, I'm from Guatemala. I am a backend developer, but I like 
  <hr>
 <div align="center" style= "display: flex; align-items: flex-end;">
   <img height = "350em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danieltistoj&theme=github_dark"/>
+</div>
+<div align="center">
+<img  height="400px" width="400px"  src="https://github.com/danieltistoj/danieltistoj/assets/42653664/15e3b828-ea60-473e-ab5b-6f0939688f08"/>
 </div>
