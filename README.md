@@ -68,5 +68,5 @@ Hi, I'm Daniel Tistoj, I'm from Guatemala. I am a backend developer, but I like 
   <img height = "350em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danieltistoj&theme=github_dark"/>
 </div>
 <div align="center">
-<img  height="400px" width="400px"  src="https://github.com/danieltistoj/danieltistoj/assets/42653664/15e3b828-ea60-473e-ab5b-6f0939688f08"/>
+<img  height="300px" width="300px"  src="https://github.com/danieltistoj/danieltistoj/assets/42653664/15e3b828-ea60-473e-ab5b-6f0939688f08"/>
 </div>
