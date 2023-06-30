@@ -1,5 +1,5 @@
 <div align="center">
-<img  src="https://github.com/danieltistoj/danieltistoj/assets/42653664/bcad8750-a438-4e64-a224-04c5523f3fd9"/>
+<img  src="https://github.com/danieltistoj/danieltistoj/assets/42653664/6a6eedb6-af09-4c45-b33b-4ca997a858e8"/>
 </div>
 <!-- 
 <div>
