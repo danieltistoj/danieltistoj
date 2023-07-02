@@ -1,6 +1,8 @@
 <div align="center">
-<img  src="https://github.com/danieltistoj/danieltistoj/assets/42653664/6a6eedb6-af09-4c45-b33b-4ca997a858e8"/>
+<img  src="https://github.com/danieltistoj/danieltistoj/assets/42653664/ad7e5d7c-f91d-4d3e-b67e-6ca6149106ff"/>
 </div>
+
+
 <!-- 
 <div>
 <img  src="https://user-images.githubusercontent.com/42653664/190973788-29fe7fb3-9b5b-4ffd-93b4-4b8cf5384be8.png"/>
