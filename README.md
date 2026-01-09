@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/danieltistoj/danieltistoj/assets/42653664/ad7e5d7c-f91d-4d3e-b67e-6ca6149106ff" />
+  <img src="https://github.com/user-attachments/assets/721d7c86-146b-4d17-895c-5b5538d318c5" />
 </div>
 
 <div align="center">
@@ -97,8 +97,3 @@
   <img height="300px" width="300px" src="https://github.com/danieltistoj/danieltistoj/assets/42653664/15e3b828-ea60-473e-ab5b-6f0939688f08" />
 </div>
 
-<div align="center">
-  <p>
-    <em>💼 En busca de nuevos desafíos en desarrollo backend • 🌎 Guatemala</em>
-  </p>
-</div>
