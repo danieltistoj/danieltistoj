@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/daniel-tistoj-315661223" target="_blank">
     <img height="30px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="https://portafolio-pi-sepia.vercel.app/" target="_blank">
+  <a href="https://portfolio-ecru-nu-92.vercel.app/es" target="_blank">
     <img height="31px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
 </div>
