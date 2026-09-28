@@ -1,99 +1,46 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/721d7c86-146b-4d17-895c-5b5538d318c5" />
-</div>
+# Daniel Tistoj
 
-<div align="center">
-  <a href="mailto:josetisrey@gmail.com">
-    <img height="30px" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/daniel-tistoj-315661223" target="_blank">
-    <img height="30px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="https://portfolio-ecru-nu-92.vercel.app/es" target="_blank">
-    <img height="31px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
-  </a>
-</div>
+Backend Developer from Guatemala, focused on building reliable APIs, scalable services, and practical software solutions.
 
-<br>
+I mainly work with **Java**, **Spring Boot**, **TypeScript**, **Node.js**, and relational databases.  
+I enjoy designing backend systems with clear contracts, consistent error handling, and maintainable architecture.
 
-<h2 align="center">👋 ¡Hola! Soy Daniel Tistoj</h2>
+My work is usually centered around turning business requirements into stable APIs, improving internal processes through automation, and reducing repeated code by creating reusable tools and shared patterns.
 
-<p align="center">
-  <strong>Desarrollador Backend</strong> • <strong>Java & TypeScript</strong> • <strong>Arquitecturas Escalables</strong>
-</p>
+## What I Do
 
-<p align="center">
-  Desarrollador Backend con más de 2 años de experiencia profesional en el diseño y desarrollo de sistemas escalables, APIs REST y arquitecturas basadas en microservicios. Especializado en soluciones que optimizan procesos empresariales y reducen costos operativos mediante la automatización y el control preciso de datos.
-</p>
+- Build REST APIs and backend services
+- Design microservice-based architectures
+- Work with relational and NoSQL databases
+- Create reusable libraries and internal tools
+- Improve consistency across backend projects
+- Automate repetitive business and development workflows
 
-<p align="center">
-  <em>Backend Developer with over 2 years of professional experience designing and developing scalable systems, REST APIs, and microservices-based architectures. Specialized in solutions that optimize business processes and reduce operational costs through automation and precise data control.</em>
-</p>
+## Tech Stack
 
-<br>
+**Backend:** Java, Spring Boot, Node.js, TypeScript, Express, NestJS  
+**Databases:** PostgreSQL, MySQL, MongoDB  
+**Tools:** Docker, Git, GitHub, Postman  
+**Other:** Prisma, Supabase, Stripe, React
 
-<div align="center">
-  <h2>🛠️ Tecnologías & Herramientas</h2>
-</div>
+## Current Focus
 
-<h3 align="center">Backend Development</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,py,ts,express,nestjs" />
-  </a>
-</p>
+- Spring Boot backend development
+- API design and standardization
+- Microservices and service communication
+- Shared libraries for backend teams
+- Clean, maintainable, production-ready code
 
-<h3 align="center">Frameworks Especializados</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-</p>
+## Featured Project
 
-<h3 align="center">Bases de Datos</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
-  </a>
-</p>
+### [nexum-spring-commons](https://github.com/Nexum-Projects/nexum-spring-commons)
 
-<h3 align="center">Plataformas & Herramientas</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
-  </a>
-  <br>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
-</p>
+A reusable Spring Boot library for REST APIs.
 
-<h3 align="center">Frontend (Complementario)</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react" />
-  </a>
-</p>
+It centralizes common backend patterns such as standardized responses, pagination, global error handling, search utilities, rate limiting, security handlers, and username validation.
 
-<br>
+The goal is simple: avoid repeating the same infrastructure code across multiple Spring Boot projects and keep APIs more consistent.
 
-<div align="center">
-  <h2>📊 Estadísticas de GitHub</h2>
-</div>
+## Links
 
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danieltistoj&theme=dark&hide_border=true" /> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danieltistoj&theme=dark&hide_border=true" /> 
-</div>
-
-<br>
-<hr>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danieltistoj&theme=github_dark&hide_border=true" />
-</div>
-
-<div align="center">
-  <img height="300px" width="300px" src="https://github.com/danieltistoj/danieltistoj/assets/42653664/15e3b828-ea60-473e-ab5b-6f0939688f08" />
-</div>
-
+[Portfolio](https://portfolio-ecru-nu-92.vercel.app/es) · [LinkedIn](https://www.linkedin.com/in/daniel-tistoj-315661223) · [Email](mailto:josetisrey@gmail.com)
